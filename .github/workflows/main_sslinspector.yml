@@ -26,4 +26,4 @@ jobs:
           app-name: 'SSLInspector'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_468DA8B8312946A3AB63DCC817F29BD6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_956815AEEF444A34BFA1EF7759CB6A14 }}
